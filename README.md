@@ -1,1 +1,0 @@
-# Face-recognition-Optimizing-attendance-system-in-UCA-
